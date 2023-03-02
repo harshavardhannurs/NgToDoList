@@ -1,0 +1,19 @@
+.single-item{
+    display:flex;
+    justify-content:space-between;
+    padding:20px;
+    border:1pt solid black;
+    box-shadow:1px 1px 3px 1px grey;
+    margin-top:20px;
+    border-radius:10px;
+    font-size:1.3rem;
+}
+
+.single-item button{
+    background-color: red;
+    color:white;
+    padding:6px;
+    border:1pt solid white;
+    border-radius:6px;
+    cursor:pointer;
+}
